@@ -1,4 +1,4 @@
-def palindrom(s):
+def palindrome(s):
     return str(s) == str(s)[::-1]
 
 
